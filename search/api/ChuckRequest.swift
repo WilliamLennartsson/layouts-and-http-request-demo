@@ -39,8 +39,6 @@ struct ChuckRequest {
             }
         }
         task.resume()
-        let a = (1, 4, "hej")
         
-        let (b, c, d    ) = a
     }
 }
